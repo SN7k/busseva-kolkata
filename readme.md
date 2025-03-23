@@ -1,4 +1,4 @@
-# Champadali Bus Stop Information Website
+# Kolkata Bus Stop Information Website
 
 A user-friendly website for Champadali Bus Stop (Barasat, Kolkata) that helps passengers find buses to their desired destinations.
 
